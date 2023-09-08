@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimbara28&label=Profile%20views&color=0e75b6&style=flat" alt="bimbara28" /> </p>
 
+- Welcome to my GitHub profile! I'm Bimbara Ratnayake, a Computer Engineering undergraduate at the **University of Peradeniya**
+
+- 🌱 My interest areas are Artificial Intelligence, Machine learning. 
+
 - 📫 How to reach me **bimbararthnayake@ieee.org**
 
 <h3 align="left">Connect with me:</h3>
