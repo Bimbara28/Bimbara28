@@ -9,11 +9,13 @@
 
 <br></br>
 
-<img align="left" alt="coding" width="650" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
+<img align="left" alt="coding" width="800" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bimbara28&label=Profile%20views&color=0e75b6&style=flat" alt="bimbara28" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bimbara28&label=Profile%20views&color=0e75b6&style=flat" alt="bimbara28" /> </p>
 
-- Welcome to my GitHub profile! I'm Bimbara Ratnayake, a Computer Engineering undergraduate at the **University of Peradeniya**
+
+
+ - Welcome to my GitHub profile! I'm Bimbara Ratnayake, a Computer Engineering undergraduate at the **University of Peradeniya**
 
 - 🌱 My interest areas are Artificial Intelligence, Machine learning. 
 
