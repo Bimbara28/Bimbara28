@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I’m [Bimbara Ratnayake]([http://linkedin.com/in/bimbara-ratnayake-1ab0771b5](http://linkedin.com/in/bimbara-rathnayake-1ab0771b5)).
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I’m [Bimbara Ratnayake](http://linkedin.com/in/bimbara-ratnayake-1ab0771b5).
 <a href="(http://linkedin.com/in/bimbara-rathnayake-1ab0771b5)">
   <img align="left" alt="Bimbara's LinkedIN" width="104px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bimbara ratnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bimbara ratnayake" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/bimbara-ratnayake-1ab0771b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bimbara ratnayake" height="30" width="40" /></a>
 <a href="https://fb.com/bimbara ratnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bimbara ratnayake" height="30" width="40" /></a>
 <a href="https://instagram.com/_.bimbara._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.bimbara._" height="30" width="40" /></a>
 </p>
