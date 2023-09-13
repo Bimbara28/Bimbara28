@@ -1,11 +1,6 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I’m [Bimbara Ratnayake](http://linkedin.com/in/bimbara-ratnayake-1ab0771b5).
-<a href="(http://linkedin.com/in/bimbara-rathnayake-1ab0771b5)">
-  <img align="left" alt="Bimbara's LinkedIN" width="104px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/_.bimbara._/">
-  <img align="left" alt="Bimbara's Instagram" width="106px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-</a>
+
 
 <br></br>
 
