@@ -14,7 +14,7 @@
 
 - 🌱 My interest areas are Artificial Intelligence, Machine learning. 
 
-- 📫 How to reach me **bimbararthnayake@ieee.org**
+- 📫 How to reach me **bimbaradhananjani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
