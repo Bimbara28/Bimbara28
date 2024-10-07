@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I’m [Bimbara Ratnayake](http://linkedin.com/in/bimbara-ratnayake-1ab0771b5).
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I’m [Bimbara Rathnayake](http://linkedin.com/in/bimbara-ratnayake-1ab0771b5).
 
 
 <br></br>
