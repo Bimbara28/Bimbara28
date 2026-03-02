@@ -14,13 +14,11 @@
 
 - 🌱 My interest areas are Artificial Intelligence, Machine learning. 
 
-- 📫 How to reach me **bimbaradhananjani@gmail.com**
+- 📫 How to reach me **bimbara@cse.mrt.ac.lk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://linkedin.com/in/bimbara-ratnayake-1ab0771b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bimbara ratnayake" height="30" width="40" /></a>
-<a href="https://fb.com/bimbara ratnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bimbara ratnayake" height="30" width="40" /></a>
-<a href="https://instagram.com/_.bimbara._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.bimbara._" height="30" width="40" /></a>
 </p>
 
 
